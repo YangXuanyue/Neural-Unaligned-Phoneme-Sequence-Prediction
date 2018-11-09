@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python runner.py -m test -c  1031-010632.119 &
